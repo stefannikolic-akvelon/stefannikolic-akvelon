@@ -2,7 +2,7 @@
 ### My name is Stefan and I am a Software Development Engineer from Serbia, working in Akvelon INC.
 
 - 🔭 I’m currently working on web development using .NET and Angular.
-- 🌱 I’m currently learning about Azure Services.
+- 🌱 I’m currently learning about Azure Services and React.
 
 <!--
 **stefannikolic-akvelon/stefannikolic-akvelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
